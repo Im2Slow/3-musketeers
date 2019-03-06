@@ -14,7 +14,7 @@
 - [🏃‍♀️ Steps to do](#%E2%80%8D-steps-to-do)
   - [cash: RDD and CDD](#cash-rdd-and-cdd)
   - [starwars: TDD](#starwars-tdd)
-  - [About Jest](#about-jest)
+    - [About Jest](#about-jest)
 - [🛣️ Related course](#-related-course)
 - [Licence](#licence)
 

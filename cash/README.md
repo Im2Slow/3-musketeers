@@ -56,15 +56,13 @@ First, make sure you have installed **node** and **npm** on your computer :
 node bin/index.js --set eur krw usd gbp jpy
 ```
 
-*Output :*
-
-![](../cash-extra.png)
+[Output](../cash-extra.png)
 
 **Notes** :
 
 * The first argument after `--set` is the converted unit : here **1 EUR**.
 
-* You can list as much currencies as you want
+* You can list as much currencies as you want.
 
 * To find new currencies, check this link : https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html
 
